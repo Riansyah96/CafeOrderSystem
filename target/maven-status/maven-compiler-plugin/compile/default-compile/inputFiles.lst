@@ -1,0 +1,12 @@
+/home/apriansyah/NetBeansProjects/CafeOrderSystem/src/main/java/com/cafe/MainApp.java
+/home/apriansyah/NetBeansProjects/CafeOrderSystem/src/main/java/com/cafe/UIUtils.java
+/home/apriansyah/NetBeansProjects/CafeOrderSystem/src/main/java/com/cafe/auth/AuthService.java
+/home/apriansyah/NetBeansProjects/CafeOrderSystem/src/main/java/com/cafe/auth/Session.java
+/home/apriansyah/NetBeansProjects/CafeOrderSystem/src/main/java/com/cafe/model/MenuItem.java
+/home/apriansyah/NetBeansProjects/CafeOrderSystem/src/main/java/com/cafe/model/Order.java
+/home/apriansyah/NetBeansProjects/CafeOrderSystem/src/main/java/com/cafe/model/OrderItem.java
+/home/apriansyah/NetBeansProjects/CafeOrderSystem/src/main/java/com/cafe/model/OrderStatus.java
+/home/apriansyah/NetBeansProjects/CafeOrderSystem/src/main/java/com/cafe/model/Role.java
+/home/apriansyah/NetBeansProjects/CafeOrderSystem/src/main/java/com/cafe/model/Struk.java
+/home/apriansyah/NetBeansProjects/CafeOrderSystem/src/main/java/com/cafe/model/User.java
+/home/apriansyah/NetBeansProjects/CafeOrderSystem/src/main/java/com/cafe/system/CaffeSystem.java

@@ -1,0 +1,12 @@
+com/cafe/model/Struk.class
+com/cafe/model/MenuItem.class
+com/cafe/model/Role.class
+com/cafe/model/OrderItem.class
+com/cafe/UIUtils.class
+com/cafe/system/CaffeSystem.class
+com/cafe/MainApp.class
+com/cafe/model/Order.class
+com/cafe/auth/Session.class
+com/cafe/model/OrderStatus.class
+com/cafe/auth/AuthService.class
+com/cafe/model/User.class
